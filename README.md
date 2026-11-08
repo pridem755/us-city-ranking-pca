@@ -135,8 +135,6 @@ The PC1 based ranking should not be treated as a final judgement about livabilit
     6. LOADING PLOT: the loadings of each attribute on PC1 and PC2 and the corresponding loading plot.
     7. SCORE PLOT: the PC1 and PC2 scores of the cities and the corresponding score plot.
 2. **PRIDE_MUDONDO_PCA_PROJECT_WRITEUP.pdf:** the written report, covering the introduction, the data description and correlation structure, the PCA and reduced model, the interpretation of the retained components, the loading plot, the score plot, and the city ranking and conclusions.
-3. **README.md:** this file.
-4. **.gitignore:** a list of temporary and system files, such as Excel lock files, that are excluded from version control.
 
 ## Tools Used
 
