@@ -1,0 +1,9 @@
+# Excel temporary lock files
+~$*
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# macOS system files
+.DS_Store
